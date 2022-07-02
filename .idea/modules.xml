@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Complete-Python-3-Bootcamp.iml" filepath="$PROJECT_DIR$/.idea/Complete-Python-3-Bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../freqtrade/.idea/freqtrade.iml" filepath="$PROJECT_DIR$/../freqtrade/.idea/freqtrade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../funding_arb/.idea/funding_arb.iml" filepath="$PROJECT_DIR$/../funding_arb/.idea/funding_arb.iml" />
     </modules>
   </component>
 </project>
